@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #BABD8D;
+}
+
+.link{
+    text-decoration: none;
+    font-weight: 800;
+}

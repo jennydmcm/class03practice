@@ -1,0 +1,21 @@
+[
+    {
+        "employeeNumber": "78896",
+        "name": "Kai Baker",
+        "department": "Science",
+        "position": "Teacher"
+
+    },
+    {
+        "employeeNumber": "78897",
+        "name": "Jenny McMahon",
+        "department": "Science",
+        "position": "Principal"
+    },
+    {
+        "employeeNumber": "78898",
+        "name": "Sophia Roddick",
+        "department": "Science",
+        "position": "Teacher"
+    }
+]
